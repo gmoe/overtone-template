@@ -8,10 +8,10 @@ with Overtone.
 If you're new to Clojure and Overtone, I would recommend doing using
 [Leiningen](http://leiningen.org/). 
 
-Add the following line to your `:user` profile in `~/.lein/profiles.clj`:
+Add the following dependency to your `:user` profile in `~/.lein/profiles.clj`:
 
   ```clojure
-  :plugins [[org.clojars.gmoe/overtone-template "1.0.0"]]
+  [org.clojars.gmoe/overtone-template "1.0.0"]
   ```
 
 If your `profiles.clj` file is empty or missing, you can create one with the

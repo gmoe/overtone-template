@@ -18,7 +18,7 @@ If your `profiles.clj` file is empty or missing, you can create one with the
 following content:
 
   ```clojure
-  {:user {:plugins [[cider/cider-nrepl "0.8.2"]]}}
+  {:user {:plugins [[org.clojars.gmoe/overtone-template]]}}
   ```
 
 ## Usage

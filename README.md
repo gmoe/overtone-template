@@ -3,6 +3,8 @@
 Just like the title says, this is a Leiningen template for quickly getting started
 with [Overtone](https://github.com/overtone/overtone).
 
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.gmoe/overtone-template.svg)](https://clojars.org/org.clojars.gmoe/overtone-template)
+
 ## Installation
 
 If you're new to Clojure and Overtone, I would recommend doing using

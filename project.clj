@@ -1,4 +1,4 @@
-(defproject org.clojars.gmoe/overtone-template "1.0.0"
+(defproject org.clojars.gmoe/overtone-template "1.0.1"
   :description "A simple Leiningen template for Overtone."
   :url "https://github.com/gmoe/overtone-template"
   :license {:name "The MIT License (MIT)"

@@ -10,7 +10,7 @@
   (let [data {:name name 
               :sanitized (name-to-path name) 
               :namespace (str name ".core")
-              :year "2015"}]
+              :year "2016"}]
     (main/info "Generating fresh 'lein new' Overtone project.")
     (->files data
              ["src/{{sanitized}}/core.clj" (render "core.clj" data)]

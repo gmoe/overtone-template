@@ -13,7 +13,7 @@ If you're new to Clojure and Overtone, I would recommend doing using
 Add the following dependency to your `:user` profile in `~/.lein/profiles.clj`:
 
   ```clojure
-  [org.clojars.gmoe/overtone-template "1.0.0"]
+  [org.clojars.gmoe/overtone-template "1.0.1"]
   ```
 
 If your `profiles.clj` file is empty or missing, you can create one with the

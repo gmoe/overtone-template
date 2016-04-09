@@ -5,5 +5,5 @@
             :url "http://opensource.org/licenses/MIT"
             :distribution :repo
             :comments "Please use Overtone for good"}
-  :dependencies [[org.clojure/clojure "1.6.0"]]
+  :dependencies [[org.clojure/clojure "1.8.0"]]
   :eval-in-leiningen true)

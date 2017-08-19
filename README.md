@@ -20,7 +20,7 @@ If your `profiles.clj` file is empty or missing, you can create one with the
 following content:
 
   ```clojure
-  {:user {:plugins [[org.clojars.gmoe/overtone-template]]}}
+  {:user {:plugins [[org.clojars.gmoe/overtone-template "1.0.1"]]}}
   ```
 
 ## Usage
